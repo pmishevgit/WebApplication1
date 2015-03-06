@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="home.html" />
+    <Content Include="Images\2.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
